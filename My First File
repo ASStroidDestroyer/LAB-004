@@ -5,4 +5,7 @@ class Program {
     int subtract ;
     subtract = 5-3;
      System.Console.WriteLine("The difference is "+ subtract );
+    int Product ;
+    Product = 5*3;
+     System.Console.WriteLine("The Product is "+ Product );
 }
