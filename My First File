@@ -2,4 +2,7 @@ class Program {
     int sum ;
     sum = 3+5 ;
     System.Console.WriteLine("The sum is "+ sum );
+    int subtract ;
+    subtract = 5-3;
+     System.Console.WriteLine("The difference is "+ subtract );
 }
